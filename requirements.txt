@@ -1,0 +1,1 @@
+tercerepo @ https://github.com/braad8/tercerepo/releases/download/V0.1.0/tercerepo-0.1.0-py3-none-any.whl
